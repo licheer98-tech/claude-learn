@@ -1,7 +1,6 @@
 # Claude Code Agent Framework Analysis
 
 > 分析版本: 2026-04-09
-> 项目路径: `/home/0668001400/AI/code/claude-code_source`
 
 ---
 
@@ -1936,4 +1935,3 @@ class AgentResumer:
 
 ---
 
-*文档生成时间: 2026-04-09*
